@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EmployeeWages
 {
-    internal class EmployeeWage
+    internal class UC2EmployeeWage
     {
         public static void Display()
         {
