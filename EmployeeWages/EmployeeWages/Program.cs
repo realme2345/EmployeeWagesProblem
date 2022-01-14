@@ -22,8 +22,8 @@ namespace EmployeeWages
             {
                 Console.WriteLine("Employee is absent");
             }
-            // EmployeeWage.Display();
-            //AddPartTimeWage.DisplayWage();
+            // UC2EmployeeWage.Display();
+            //UC3EmployeeWage.DisplayWage();
             //UC4EmployeeWage.DisplayCase();
             // UC5EmployeeWage.DisplayWagePerDays();
             UC6EmployeeWage.DisplayWagePerHours();
