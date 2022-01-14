@@ -24,9 +24,9 @@ namespace EmployeeWages
             }
             // EmployeeWage.Display();
             //AddPartTimeWage.DisplayWage();
-            //CaseStatement.DisplayCase();
-            // EmployeeWagePerDays.DisplayWagePerDays();
-            EmployeeWagesPerHours.DisplayWagePerHours();
+            //UC4EmployeeWage.DisplayCase();
+            // UC5EmployeeWage.DisplayWagePerDays();
+            UC6EmployeeWage.DisplayWagePerHours();
         }
 
 
