@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EmployeeWages
 {
-    internal class AddPartTimeWage
+    internal class UC3EmployeeWage
     {
         public static void DisplayWage()  // Method calling for class
         {
