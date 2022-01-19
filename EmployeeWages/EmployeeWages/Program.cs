@@ -26,7 +26,16 @@ namespace EmployeeWages
             //UC3EmployeeWage.DisplayWage();
             //UC4EmployeeWage.DisplayCase();
             // UC5EmployeeWage.DisplayWagePerDays();
-            UC6EmployeeWage.DisplayWagePerHours();
+           // UC6EmployeeWage.DisplayWagePerHours();
+            //UC7EmployeeWage.DisplayUC7();
+            //UC8EmployeeWages.DisplayUC8("Dmart", 16, 20, 80);
+            //UC8EmployeeWages.DisplayUC8("relieance", 18, 20, 100);
+            UC9EmployeeWagescs Dmart = new UC9EmployeeWagescs("Dmart", 26, 27, 100);
+            UC9EmployeeWagescs TATA = new UC9EmployeeWagescs("TATA", 22, 25, 70);
+            Dmart.DisplayUC9();
+            Console.WriteLine(Dmart.toString());
+            TATA.DisplayUC9 ();
+             Console.WriteLine(TATA.toString());
         }
 
 
